@@ -2,11 +2,9 @@
 hello git! hello atguigu!aaaaaaaa
 hello git! hello atguigu!22222222
 hello git! hello atguigu!hot-fix
-=======
 hello git! hello atguigu!aaaaaaaa
 hello git! hello atguigu!22222222
 hello git! hello atguigu!hot-fix
->>>>>>> hot-fix
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
@@ -19,4 +17,4 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
-hello git! hello atguigu!
+hello git! hello atguigu!maser test
